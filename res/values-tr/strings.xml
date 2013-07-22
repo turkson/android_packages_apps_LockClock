@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 The CyanogenMod Project (DvTonder)
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name" translatable="false">cLock</string>
+    <string name="unknown">Bilinmeyen</string>
+    <string name="cancel">İptal</string>
+    <string name="loading_indicator">Widget yükleniyor\u2026</string>
+    <string name="menu_done">Tamam</string>
+    <string name="widget_12_hours_format_h" translatable="false">h</string>
+    <string name="widget_12_hours_format_no_ampm_m" translatable="false">:mm</string>
+    <string name="widget_12_hours_format_m" translatable="false">:mm<font size="15">aa</font></string>
+    <string name="widget_24_hours_format_h" translatable="false">kk</string>
+    <string name="widget_24_hours_format_m" translatable="false">:mm</string>
+    <string name="weather_0">Hortum</string>
+    <string name="weather_1">Tropik Fırtına</string>
+    <string name="weather_2">Kasırga</string>
+    <string name="weather_3">Ağır Gök Gürültülü Fırtına</string>
+    <string name="weather_4">Gök Gürültülü Fırtına</string>
+    <string name="weather_5">Karla Karışık Yağmur</string>
+    <string name="weather_6">Karla Karışık Yağmur</string>
+    <string name="weather_7">Karla Karışık Yağmur</string>
+    <string name="weather_8">Dondurucu Çiseleme</string>
+    <string name="weather_9">Çiseleme</string>
+    <string name="weather_10">Dondurucu Yağmur</string>
+    <string name="weather_11">Hafif Yağmur</string>
+    <string name="weather_12">Hafif Yağmur</string>
+    <string name="weather_13">Sağanak Kar Yağışı</string>
+    <string name="weather_14">Hafif Kar Yağışı</string>
+    <string name="weather_15">Kar Serpintisi</string>
+    <string name="weather_16">Karlı</string>
+    <string name="weather_17">Dolu</string>
+    <string name="weather_18">Sulu Kar</string>
+    <string name="weather_19">Tozlu</string>
+    <string name="weather_20">Sisli</string>
+    <string name="weather_21">Puslu</string>
+    <string name="weather_22">Dumanlı</string>
+    <string name="weather_23">Rüzgarlı</string>
+    <string name="weather_24">Rüzgarlı</string>
+    <string name="weather_25">Soğuk</string>
+    <string name="weather_26">Bulutlu</string>
+    <string name="weather_27">Çoğunlukla Bulutlu</string> <!-- Night -->
+    <string name="weather_28">Çoğunlukla Bulutlu</string> <!-- Day -->
+    <string name="weather_29">Parçalı Bulutlu</string> <!-- Night -->
+    <string name="weather_30">Parçalı Bulutlu</string> <!-- Day -->
+    <string name="weather_31">Açık</string> <!-- Night -->
+    <string name="weather_32">Güneşli</string>
+    <string name="weather_33">İyi</string> <!-- Night -->
+    <string name="weather_34">İyi</string> <!-- Day -->
+    <string name="weather_35">Dolu ile Karışık Yağmur</string>
+    <string name="weather_36">Sıcak</string>
+    <string name="weather_37">Etkisiz Fırtına</string>
+    <string name="weather_38">Etkili Fırtına</string>
+    <string name="weather_39">Etkili Fırtına</string>
+    <string name="weather_40">Etkili Sağanak</string>
+    <string name="weather_41">Ağır Kar Yağışlı</string>
+    <string name="weather_42">Etkili Sağanak Kar</string>
+    <string name="weather_43">Ağır Kar Yağışlı</string>
+    <string name="weather_44">Parçalı Bulutlu</string>
+    <string name="weather_45">Gök Gürültülü Yağış</string>
+    <string name="weather_46">Sağanak Kar</string>
+    <string name="weather_47">Etkisiz Gök Gürültülü Yağış</string>
+    <string name="weather_3200"></string>
+    <string name="weather_N">K</string>
+    <string name="weather_NE">KD</string>
+    <string name="weather_E">D</string>
+    <string name="weather_SE">GD</string>
+    <string name="weather_S">G</string>
+    <string name="weather_SW">GB</string>
+    <string name="weather_W">B</string>
+    <string name="weather_NW">KB</string>
+    <string name="weather_no_data">Veri yok</string>
+    <string name="weather_tap_to_refresh">Yenilemek için dokun</string>
+    <string name="weather_refreshing">Yenileniyor</string>
+    <string name="weather_last_sync_just_now">Şu anda</string>
+    <string name="weather_refresh_manual">Elle</string>
+    <string name="weather_refresh_30min">30 dakika</string>
+    <string name="weather_refresh_60min">60 dakika</string>
+    <string name="weather_refresh_2hrs">2 saat</string>
+    <string name="weather_refresh_4hrs">4 saat</string>
+    <string name="weather_refresh_6hrs">6 saat</string>
+    <string name="weather_refresh_8hrs">8 saat</string>
+    <string name="clock_category">Saat ve alarm</string>
+    <string name="weather_category">Hava paneli</string>
+    <string name="calendar_category">Takvim etkinlikleri</string>
+    <string name="general_category">Genel</string>
+    <string name="display_category">Görünüm</string>
+    <string name="use_digital_clock_title">Dijital saat kullan</string>
+    <string name="use_digital_clock_summary">Dijital ve Analog saat arasında geçiş yap</string>
+    <string name="clock_font_title">Kalın saat</string>
+    <string name="clock_font_minutes_title">Kalın dakika</string>
+    <string name="clock_font_date_title">Kalın tarih ve alarm</string>
+    <string name="show_alarm_title">Sonraki alarmı göster</string>
+    <string name="weather_enabled">Açık</string>
+    <string name="weather_enable">Hava durumu göster</string>
+    <string name="weather_source">Yahoo! Hava durumu</string>
+    <string name="weather_use_custom_location">Seçili konum kullan</string>
+    <string name="weather_geolocated">Şebekeyi kullanarak konum belirle</string>
+    <string name="weather_custom_location_dialog_title">Konum gir</string>
+    <string name="weather_custom_location_hint">Şehir, Ülke</string>
+    <string name="weather_custom_location_title">Konum</string>
+    <string name="weather_show_location_title">Konum göster</string>
+    <string name="weather_show_timestamp_title">Zaman etiketi göster</string>
+    <string name="weather_refresh_interval">Aralıklı güncelle</string>
+    <string name="weather_use_metric">Metrik kullan</string>
+    <string name="weather_retrieve_location_dialog_title">Konum bulunamıyor!</string>
+    <string name="weather_retrieve_location_dialog_message">Şebeke konumu kapalı.\n\nSeçili bir konum kullan ya da şebeke konumunu aç</string>
+    <string name="weather_retrieve_location_dialog_enable_button">Açık</string>
+    <string name="weather_invert_lowhigh">Düşük/yüksek sıcaklık ters çevir</string>
+    <string name="weather_progress_title">Konum doğrulanıyor</string>
+    <string name="weather_alternate_icons_title">Renkli ikonlar kullan</string>
+    <string name="weather_alternate_icons_summary">Varsayılan (Renkli) ve alternatif (Beyaz) ikonlar arasında geçiş yap</string>
+    <string name="weather_show_when_minimized_title">Küçülttüğümde göster</string>
+    <string name="weather_show_when_minimized_summary">Widget küçültüldüğünde hava durumunu göster</string>
+    <string name="calendar_title">Sonraki etkinliği görüntüle</string>
+    <string name="calendars_title">Etkinlik takvimi</string>
+    <string name="calendars_summary">Bu takvimlerde etkinlik bul</string>
+    <string name="calendar_reminders_only_title">Sadece hatırlatmalar</string>
+    <string name="calendar_reminders_only_summary">Sadece hatırlatmalı etkinlikleri göster</string>
+    <string name="calendar_hide_allday_title">Tüm gün etkinlikleri gizle</string>
+    <string name="calendar_lookahead_title">Sonraki etkinlik</string>
+    <string name="calendar_show_location_title">Etkinlik konumu</string>
+    <string name="calendar_show_description_title">Etkinlik tanımı</string>
+    <string name="calendar_upcoming_events_category">Yaklaşan etkinlikler</string>
+    <string name="calendar_highlight_upcoming_events_title">Önemli etkinlikler</string>
+    <string name="calendar_highlight_upcoming_events_summary">Bugün saat akşam 8\'den sonraki ve gelecek günün etkinliklerini önemli yap</string>
+    <string name="calendar_highlight_upcoming_events_bold">Kalın Yazı</string>
+    <string name="font_color">Yazı rengi</string>
+    <string name="font_color_alarm">Alarm yazı rengi</string>
+    <string name="font_color_timestamp">Tarih yazı rengi</string>
+    <string name="font_color_calendar_details">Detaylı yazı rengi</string>
+    <string name="calendar_lookahead_3hrs">3 saat</string>
+    <string name="calendar_lookahead_6hrs">6 saat</string>
+    <string name="calendar_lookahead_12hrs">12 saat</string>
+    <string name="calendar_lookahead_1day">1 gün</string>
+    <string name="calendar_lookahead_3days">3 gün</string>
+    <string name="calendar_lookahead_1wk">1 hafta</string>
+    <string name="calendar_lookahead_2wks">2 hafta</string>
+    <string name="calendar_lookahead_4wks">4 hafta</string>
+    <string name="calendar_metadata_none">Gösterme</string>
+    <string name="calendar_metadata_first_line">İlk satırı göster</string>
+    <string name="calendar_metadata_all">Tamamını göster</string>
+    <string name="white">Beyaz</string>
+    <string name="grey">Gri</string>
+    <string name="black">Siyah</string>
+    <string name="holo_blue_light">Açık mavi</string>
+    <string name="holo_green_light">Açık yeşil</string>
+    <string name="holo_red_light">Açık kırmızı</string>
+    <string name="holo_blue_dark">Koyu mavi</string>
+    <string name="holo_green_dark">Koyu yeşil</string>
+    <string name="holo_red_dark">Koyu kırmızı</string>
+    <string name="holo_purple">Mor</string>
+    <string name="holo_orange_light">Açık turuncu</string>
+    <string name="holo_orange_dark">Koyu turuncu</string>
+    <string name="holo_blue_bright">Parlak mavi</string>
+
+</resources>
